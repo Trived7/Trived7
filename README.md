@@ -13,4 +13,7 @@ I'm Trived, a curious learner seeing developers bring unique, beautiful and usef
 # More on me
 
 ### Languages
-• Currently learning : [Python](https://www.python.org/)
+• Currently working with : 
+[Python](https://www.python.org/), 
+[HTML5](https://html.spec.whatwg.org/multipage/), 
+[CSS](https://web.dev/learn/css/), 

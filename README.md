@@ -1,4 +1,4 @@
-https://typograssy.deno.dev/api?text=Trived--&l0=000000&l1=00ff00&l2=346b2d&l3=004d18&l4=07ad62&bg=000000
+<a href="https://typograssy.deno.dev/api?text=Trived--&l0=000000&l1=00ff00&l2=346b2d&l3=004d18&l4=07ad62&bg=000000" </a>
 <hr>
 # Hello 👋
 
